@@ -17,3 +17,17 @@ Here are some ideas to get you started:
 - :computer: Game friendly 3D human and environmental asset modelling
 - :pen: Concept design sketches and story writing
 - :speaking_head: Bilingual, english and tagalog
+
+
+
+### Git commands (for school purposes)
+- git push, pushes commit history into the repository, most commonly used
+	* $ git push
+- git branch, branches history into different versions, for it not to be affected by the main branch
+	* $ git branch
+- git clone, clones the repository into your local device
+	* $ git clone
+- git commit, adds commit into commit history, also most commonly used along with push
+	* $ git commit
+- git fetch, synchronizes local folder with repository, important for synchronizing commits with team members
+	* $ git fetch
