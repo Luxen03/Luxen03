@@ -31,3 +31,25 @@ Here are some ideas to get you started:
 	* $ git commit -m "commit title here"
 - git fetch, synchronizes local folder with repository, important for synchronizing commits with team members
 	* $ git fetch --all
+
+## Collaboration Cheat sheet 😈 (Pau Buan)
+
+1. **Command: `git warp`**
+
+   - **Use Case:** When you want to undo the last commit but keep the changes for further modification before committing again.
+   - **Parameters:** None
+   - **Example:**
+     ```bash
+     git warp
+     ```
+     This will undo the last commit and leave your changes staged.
+
+2. **Command: `git explore`**
+
+   - **Use Case:** When you want to visualize the commit history graph in your default web browser.
+   - **Parameters:** None
+   - **Example:**
+     ```bash
+     git explore
+     ```
+     Opens a web page displaying a visual representation of your Git history.
