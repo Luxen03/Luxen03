@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ### skills :computer:
 
-- :draw: Digital/Traitional drawing
+- :sunset: Digital/Traitional drawing
 - :computer: Game friendly 3D human and environmental asset modelling
-- :man_in_tuxedo: Concept design sketches and story writing
-- :talk: Bilingual, english and tagalog
+- :tuxedo: Concept design sketches and story writing
+- :speaking_head: Bilingual, english and tagalog
