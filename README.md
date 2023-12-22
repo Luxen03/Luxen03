@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - git branch, branches history into different versions, for it not to be affected by the main branch
 	* $ git branch
 - git clone, clones the repository into your local device
-	* $ git clone \<URL here\>
+	* $ git clone <URL here\>
 - git commit, adds commit into commit history, also most commonly used along with push
 	* $ git commit -m "commit title here"
 - git fetch, synchronizes local folder with repository, important for synchronizing commits with team members
